@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartik Gupta</h1>
 <h3 align="center">Hi, I'm a 3rd year Computer Science undergraduate at IIIT Bhubaneswar. I'm deeply interested in Artificial Intelligence and Machine Learning . Alongside these, I actively work in backend development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik64-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="kartik64-rgb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik64-rgb" alt="kartik64-rgb" /></a> </p>
-
 - 📫 How to reach me **kartikguptaasg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
