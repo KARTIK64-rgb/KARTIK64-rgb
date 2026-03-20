@@ -4,7 +4,7 @@ I'm a B.Tech CSE student at IIIT Bhubaneswar and an AI Engineer passionate about
 
 ## 💫 About Me:
 - 🔭 **I currently worked on:** Integrating Microsoft Graph API for automated booking systems and building Redis-powered infrastructure for LLM context management.
-- 🌱 **I’m currently learning:** System design, scalable architectures, and advanced SQL/RDBMS concepts for production-grade applications.
+- 🌱 **I’m currently learning:** System design, scalable architectures.
 - 👯 **I’m looking to collaborate on:** Full-stack AI applications, Generative AI tooling (RAG, Pinecone), and PyTorch-based computer vision research.
 - 💬 **Ask me about:** Competitive Programming (LeetCode 1600+, Codeforces 1251 Pupil), AI/ML, PyTorch pipelines, FastAPI, and Docker containerization.
 - ⚡ **Achievement:** Led a team to the Top 10 (out of 100+) in the Smart India Hackathon (SIH) 2024!
